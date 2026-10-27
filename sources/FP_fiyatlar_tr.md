@@ -1,6 +1,6 @@
 # FP — Türkiye'de kurgu, sosyal medya yönetimi ve ajans fiyatları (2026, TL)
 
-Kamuya açık ilan ve fiyat sayfalarından kısa özet. Okunma tarihi 2026-10-09/11 (Redirhan Studio pazar araştırması).
+Kamuya açık ilan ve fiyat sayfalarından kısa özet. Okunma tarihi 2026-10-09/11 (kendi pazar taramamız).
 
 F01 Bionluk "Kurgu & Post-prodüksiyon" kategorisi, 32 ilan: başlangıç fiyatları 270-1.200 TL, medyan 555 TL. https://bionluk.com/freelancer-bul/kurgu-post-produksiyon
 F02 Bionluk'ta reels/TikTok kurgu ilanları adet başı 400-1.000 TL; bir ilanda motion graphics adet başı +200 TL, ek revizyon +150 TL. https://bionluk.com/search?term=reels

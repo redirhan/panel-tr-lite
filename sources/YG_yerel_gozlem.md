@@ -1,6 +1,6 @@
 # YG — Kamuya açık hesaplar üzerine kendi gözlemlerimiz (anonimleştirildi)
 
-Redirhan Studio'nun 2026-10-10 ve 2026-10-16 tarihli pazar taramalarından. Sadece herkese açık Instagram
+Kendi pazar taramamızdan (2026-10-10/16). Sadece herkese açık Instagram
 hesapları ve ilan siteleri incelendi; işletme adları burada anonimleştirildi. Müşteri verisi içermez.
 Bunlar örneklem gözlemidir, istatistik değildir.
 

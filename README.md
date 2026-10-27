@@ -1,6 +1,6 @@
 # Panel TR — Türkçe sentetik odak grubu (Claude Code skill)
 
-> **Pro sürümü yakında.** Bekleme listesine katılmak için Instagram'dan [@redirhanstudio](https://instagram.com/redirhanstudio) hesabına "PANEL" yazın.
+> **Pro sürümü yakında (henüz satışta değil).** Çıkınca haber almak için [Pro bekleme listesi](https://github.com/redirhan/redirhan/issues/1) konusuna 👍 bırakın ya da kısa bir yorum yazın.
 
 Reels'inizi, açılış sayfanızı, gönderinizi ya da teklifinizi yayımlamadan önce **Türkiye'den 10-54 farklı
 kişiye** gösterin: 19 yaşında Eskişehirli bir öğrenci, Ordu'da fındık bahçesinde çalışan bir genç, Facebook'u
@@ -153,4 +153,4 @@ Aynı betikler; Pro paketinde 54 kart, A/B, segment grafikleri ve rapor yazarı 
   dosyalarının yeniden satışı ve dağıtımı yasak.
 - Üçüncü taraf bileşenler: `THIRD_PARTY_NOTICES.md`.
 
-Redirhan Studio · redirhan.com
+Redirhan Labs

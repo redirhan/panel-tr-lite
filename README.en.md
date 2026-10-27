@@ -1,6 +1,6 @@
 # Panel TR — a Turkish synthetic focus group (Claude Code skill)
 
-> **Pro edition coming soon.** To join the waitlist, DM "PANEL" to [@redirhanstudio](https://instagram.com/redirhanstudio) on Instagram.
+> **Pro edition coming soon (not on sale yet).** To hear when it ships, leave a 👍 or a short comment on the [Pro waitlist issue](https://github.com/redirhan/redirhan/issues/1).
 
 Before you post a reel, a landing page, a carousel or an offer aimed at Turkey, show it to **10-54 different
 people from Turkey**: a 19-year-old student in Eskişehir, a young hazelnut farmer near Ordu, a shopkeeper in
@@ -147,4 +147,4 @@ they are.
   redistribution of the skill files.
 - Third-party components: `THIRD_PARTY_NOTICES.md`.
 
-Redirhan Studio · redirhan.com
+Redirhan Labs
