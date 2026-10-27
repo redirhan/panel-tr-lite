@@ -1,0 +1,97 @@
+{
+ "type": "video",
+ "source": "demo_reel.mp4",
+ "duration_s": 12.0,
+ "frames": [
+  {
+   "t": 0.0,
+   "file": "frames/t000.00.jpg",
+   "hook": true
+  },
+  {
+   "t": 0.5,
+   "file": "frames/t000.50.jpg",
+   "hook": true
+  },
+  {
+   "t": 1.0,
+   "file": "frames/t001.00.jpg",
+   "hook": true
+  },
+  {
+   "t": 1.5,
+   "file": "frames/t001.50.jpg",
+   "hook": true
+  },
+  {
+   "t": 2.0,
+   "file": "frames/t002.00.jpg",
+   "hook": true
+  },
+  {
+   "t": 2.5,
+   "file": "frames/t002.50.jpg",
+   "hook": true
+  },
+  {
+   "t": 3.0,
+   "file": "frames/t003.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 4.0,
+   "file": "frames/t004.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 5.0,
+   "file": "frames/t005.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 6.0,
+   "file": "frames/t006.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 7.0,
+   "file": "frames/t007.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 8.0,
+   "file": "frames/t008.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 9.0,
+   "file": "frames/t009.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 10.0,
+   "file": "frames/t010.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 11.0,
+   "file": "frames/t011.00.jpg",
+   "hook": false
+  },
+  {
+   "t": 11.8,
+   "file": "frames/t011.80.jpg",
+   "hook": false
+  }
+ ],
+ "sheets": [
+  "sheet_00_ilk3sn.jpg",
+  "sheet_01.jpg"
+ ],
+ "has_audio": false,
+ "loudness": null,
+ "onscreen_text": "0.0-0.3  Yazı yok; krem zemin üzerinde çizim bir mavi kahve fincanı, üstünde buhar çizgileri\n0.3-3.0  \"Odunpazarı'nda\" / \"yeni kahve durağı\" (büyük, koyu kahverengi); 1.2 sn'den itibaren altta küçük \"açıldı\" (turuncu); ortada aynı fincan çizimi\n3.0-6.0  \"Taze kavrum\" / \"filtre kahve\" (büyük), altında \"Her sabah 08:00'de\" / \"fırından sıcak poğaça\" (küçük, mavi); küçük fincan çizimi\n6.0-9.0  Turuncu kutu (ilk anda boş) içinde beyaz: \"AÇILIŞ HAFTASI\" / \"2. filtre kahve\" / \"bizden\" / \"20-26 Ekim\" (en küçük satır)\n9.0-12.0 Bitiş kartı: fincan çizimi, \"Mavi Kozalak Kahve\" (büyük), \"Odunpazarı, Eskişehir\", \"Her gün 08:00-22:00\" (küçük, mavi), en altta çok küçük gri \"@mavikozalak.kahve\"",
+ "audio_description": "Videoda ses kaydı yok (sessiz video). Müzik, konuşma ya da efekt yok.",
+ "caption": "Odunpazarı'nda kapımızı açtık! Açılış haftası boyunca ikinci filtre kahve bizden. Adres profilde. #eskişehir #odunpazarı #kahve",
+ "transcript": ""
+}

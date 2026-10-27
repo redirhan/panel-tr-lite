@@ -1,0 +1,137 @@
+[
+ {
+  "persona_id": "V07",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Düz krem zemin ve bir fincan çizimi var, yüz ya da mekân görüntüsü yok. Nöbet çıkışı akışı hızlı kaydırırken gözüm bunda takılmaz."
+  },
+  "ne_anlatiyor": "Odunpazarı'nda yeni açılan bir kafenin açılış duyurusu; açılış haftasında ikinci filtre kahve bedava gibi duruyor.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Saat ve tarih net yazılmış ama hiç gerçek mekân ya da kahve görüntüsü yok, sadece çizim. Ortamın nasıl olduğunu anlayamıyorum."
+  },
+  "aksiyon": {
+   "karar": "belki",
+   "ne_yapar": "kaydet/paylaş",
+   "gercekci_neden": "Bursa'dayım, Eskişehir'e özel gitmem; arkadaşlarla Eskişehir'e yolum düşerse kaydedebilirim. Takip için de önce mekânın içini görmem lazım."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Mekân görünmüyor; kadın arkadaşlarla gidilecek, rahat bir yer mi diye hiçbir fikir edinemedim.",
+  "tek_somut_duzeltme": "İlk 3 saniyede çizim yerine kafenin içinden, masalardan ve bir fincanın servis edilişinden gerçek bir çekim koy.",
+  "dayanak": [
+   "t=0.0",
+   "t=7.0",
+   "t=10.0"
+  ],
+  "goremedigim": "Kahvenin tadını, mekânın havasını ve ortamın güvenli olup olmadığını bu karelerden bilemem.",
+  "kendi_sozleriyle": "Saati ve tarihi yazmışlar, hoş ama içerisi nasıl bir yer göremeyince aklımda kalmaz."
+ },
+ {
+  "persona_id": "V13",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Sade bir fincan çizimi ve yazı var, tarif ya da ev videosu gibi canlı bir şey yok. Çocuklarla ilgili hiçbir ipucu da yok, geçerim."
+  },
+  "ne_anlatiyor": "Eskişehir'de yeni bir kahve dükkânı açılmış, açılış haftasında ikinci filtre kahveyi ikram ediyorlar.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Düzenli ve temiz görünüyor ama bir hesabın tanıtım şablonu gibi; gerçek insan ya da yer görmediğim için tam inanmam."
+  },
+  "aksiyon": {
+   "karar": "hayır",
+   "ne_yapar": "hiçbiri",
+   "gercekci_neden": "Gaziantep'te yaşıyorum, Eskişehir bana çok uzak. Açılış haftası da 20-26 Ekim, gitmem mümkün değil."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Benim şehrimde değil, o yüzden bana hitap eden hiçbir tarafı yok. Çocukla gidilir mi, belli değil.",
+  "tek_somut_duzeltme": "Poğaça ve kahvenin gerçek fotoğrafını göster, mekânda çocuk sandalyesi ya da aile masası varsa onu ekle.",
+  "dayanak": [
+   "t=2.0",
+   "t=5.0",
+   "t=10.0"
+  ],
+  "goremedigim": "Mekânın çocuklu aileye uygun olup olmadığını ve poğaçanın nasıl göründüğünü bilemem.",
+  "kendi_sozleriyle": "Güzel bir fincan çizmişler ama bu benim şehrim değil, kaydırıp geçtim."
+ },
+ {
+  "persona_id": "V23",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Genç işi bir çizim gibi geldi bana. Telefonda böyle şeylere bakmam, parmağım kaydırır."
+  },
+  "ne_anlatiyor": "Bir kahveci açılmış, ikinci kahveyi bedava veriyorlar; yani bir kampanya.",
+  "guvenilirlik": {
+   "puan": 2,
+   "neden": "Hiç fiyat yazmıyor, bedava dedikleri şeyin altında bir hesap vardır diye düşünürüm. Çizimle kandırılacak değiliz."
+  },
+  "aksiyon": {
+   "karar": "hayır",
+   "ne_yapar": "hiçbiri",
+   "gercekci_neden": "Çorum'dayım, Eskişehir'e kahve için gidilmez. Kahveyi kahvehanede içerim, fiyatını bilmediğim yere de girmem."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Fiyat yok. Filtre kahve kaç para, ikincisi bedava dediğin ilki kaç lira, belli değil.",
+  "tek_somut_duzeltme": "Filtre kahvenin fiyatını büyük yaz, mesela 'filtre kahve 60 TL, ikincisi bedava' gibi.",
+  "dayanak": [
+   "t=1.0",
+   "t=7.0",
+   "t=11.0"
+  ],
+  "goremedigim": "Gerçek fiyatı ve kahvenin kalitesini bilemem; videoda sesi de yokmuş.",
+  "kendi_sozleriyle": "Bedava diyorlar da kaça satıyorlar önce onu söylesinler."
+ },
+ {
+  "persona_id": "V19",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "İlk karede boş zemin, sonra bir cümle yazı, hareket yok. Sıkıldım, çoktan kaydırdım."
+  },
+  "ne_anlatiyor": "Odunpazarı'nda yeni açılan bir kafe, açılış haftası indirimi var.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Bilgiler düzgün ve tarih saat yazıyor, abartı yok. Ama sıradan ve çok küçük bir hesaptan geliyor gibi."
+  },
+  "aksiyon": {
+   "karar": "hayır",
+   "ne_yapar": "hiçbiri",
+   "gercekci_neden": "Antalya'da yaşıyorum, Eskişehir'e gitmem için bir sebep yok. Takip de etmem, akışımda yeni kafe çok."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Hiç enerjisi yok. Aynı fincan 12 saniye boyunca duruyor, 6. saniyeye kadar turuncu kutu bile boş.",
+  "tek_somut_duzeltme": "Turuncu kutudaki 'ikinci filtre kahve bizden' teklifini ilk 2 saniyeye al, fincan çizimi yerine gerçek bir kahve dökülen çekim koy.",
+  "dayanak": [
+   "t=0.0",
+   "t=6.0",
+   "t=9.0"
+  ],
+  "goremedigim": "Mekânın havasını, müşteri yorumlarını ve işletmenin yorumlara nasıl cevap verdiğini bilemem.",
+  "kendi_sozleriyle": "Kafe ilginçse göster, ben yazı okumaya gelmedim."
+ },
+ {
+  "persona_id": "V09",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Sade tasarım ve çizim var ama beni durduracak bir şey yok. İstanbul'da her gün onlarca yeni kafe açılışı görüyorum."
+  },
+  "ne_anlatiyor": "Eskişehir Odunpazarı'nda yeni bir kafe açılmış; açılış haftasında 20-26 Ekim arası ikinci filtre kahve ücretsiz.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Adres, saat ve tarih var, reklam gibi de durmuyor. Ama Google'da yorumu olmayan yeni bir yer, çizimle de bir şey anlamıyorum."
+  },
+  "aksiyon": {
+   "karar": "belki",
+   "ne_yapar": "kaydet/paylaş",
+   "gercekci_neden": "Samsun'a giderken Eskişehir güzergahım değil, o yüzden gitmem. Ama Eskişehir'e yolum düşerse diye kaydederim, Google yorumlarına bakmadan karar vermem."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Teklif 20-26 Ekim ile sınırlı; gördüğümde zaten bitmiş olabilir, ayrıca gerçek bir mekân görüntüsü yok.",
+  "tek_somut_duzeltme": "Kafenin dışından ve içinden 2-3 gerçek kare ekle, tarihi turuncu kutuda en büyük satır yap.",
+  "dayanak": [
+   "t=3.0",
+   "t=7.0",
+   "t=10.0"
+  ],
+  "goremedigim": "Kahvenin kalitesini ve mekânın atmosferini bu kareler göstermiyor; harita konumunu da göremedim.",
+  "kendi_sozleriyle": "Yer güzel olabilir ama içini göstermeden beni Eskişehir'e çekemezsin."
+ }
+]

@@ -1,0 +1,11 @@
+# RG — Reklam, müzik ve ileti kuralları (Türkiye)
+
+F01 Ticari Reklam ve Haksız Ticari Uygulamalar Yönetmeliği değişikliği (RG 33297, 1 Temmuz 2026, yürürlük 1 Ağustos 2026), md. 23/A: sosyal medya etkileyicilerinin reklamları "açık, anlaşılır ve ayırt edilebilir" olmalı ve "Reklam" ya da "Tanıtım" ibaresi taşımalı. https://www.alomaliye.com/2026/07/01/sosyal-medya-ve-indirim-reklamlarina-yeni-kurallar/
+F02 Aynı değişiklik, md. 18(8): reklamda insandan ayırt edilemeyen yapay zekâ karakterleri tüketici kararını etkileyecek şekilde kullanılıyorsa bu açıkça belirtilmeli. (aynı kaynak)
+F03 Aynı değişiklik: indirim duyurularında "önceki fiyat", aynı kanalda son 10 gündeki en düşük fiyattır (çabuk bozulan ürün/hizmette bir önceki fiyat). (aynı kaynak)
+F04 Ticaret Bakanlığı duyurusu (28.07.2026): uygun ibareler "reklam", "iş birliği", "sponsorlu içerik", "tanıtım". https://ticaret.gov.tr/haberler/ticaret-bakanligindan-sosyal-medyada-seffaf-reklam-donemi
+F05 Instagram: lisanslı müzik kütüphanesi kişisel, ticari olmayan kullanım içindir; bazı işletme hesapları bu kütüphaneye erişemez ve Meta Ses Koleksiyonu'nu kullanır. https://www.facebook.com/help/instagram/402084904469945
+F06 TikTok: işletmeler genel müzik kütüphanesini ticari amaçla kullanamaz; Commercial Music Library kullanılmalı. https://ads.tiktok.com/help/article/commercial-music-library?lang=en
+F07 Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik (RG 33075, 12 Kasım 2025): sağlık hizmetlerinde reklam yasak; fiyat, indirim, kampanya yok; hasta görsellerinde sonradan teknolojik düzeltme yapılamaz. https://www.alomaliye.com/2025/11/12/saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik-2025/
+F08 Ticari Elektronik İletiler Yönetmeliği: tacir/esnafa ticari e-ileti için önceden onay gerekmez ama gönderici İYS'ye kayıtlı olmalı ve alıcı ret bildirmemiş olmalı; bireylere önceden onay şart ve onay ticari ileti ile istenemez. https://ticaret.gov.tr/ic-ticaret/ticari-elektronik-iletiler/genel-bilgiler
+F09 Gelir Vergisi Kanunu 20/B: sosyal medya içerik üreticisi istisnası sadece gerçek kişiler içindir (şirket üzerinden değil). https://hukukcularevi.com/internetten-sosyal-medyadan-kazananlarin-vergisi-icerik-ureticisi-istisnasi/

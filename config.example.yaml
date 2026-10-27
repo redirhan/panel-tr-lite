@@ -1,0 +1,42 @@
+# Panel TR ayarları. Bu dosyayı config.yaml adıyla kopyalayın (ya da PANEL_TR_CONFIG ile yolunu verin).
+# Hiçbir alan zorunlu değil; boş bırakılanlar varsayılanı kullanır. Mutlak yol gerekmez: ~ ve $DEGISKEN çalışır.
+
+# Koşu klasörlerinin yazılacağı yer (init-run burada <tarih>_<slug>/ açar).
+runs_dir: ~/panel-tr-runs
+
+# Site modu tarayıcısı: firefox (varsayılan) ya da webkit. Chrome/Chromium desteklenmez ve açılmaz.
+browser: firefox
+# İsteğe bağlı: Playwright tarayıcılarını başka bir klasöre kurduysanız.
+playwright_browsers_path:
+# İsteğe bağlı: belirli bir Firefox/WebKit ikilisi (genelde gerekmez).
+browser_executable:
+
+# İsteğe bağlı: Türkçe karakterli bir .ttf (iletişim sayfaları ve grafikler için). Boşsa sistem fontu aranır
+# (macOS Arial, Linux DejaVu Sans / Noto Sans).
+font_path:
+
+# --transcript için whisper model boyutu (faster-whisper ya da openai-whisper kuruluysa kullanılır).
+transcript_model: small
+
+# İzleyici paneli yaş ağırlıkları. Varsayılan: Instagram Türkiye kullanıcı dağılımı, NapoleonCat Eylül 2026
+# (sources/NC_napoleoncat_instagram_tr.md). Kendi hesabınızın Insights yaş dağılımını biliyorsanız onu yazın.
+viewer_age_weights:
+  "18-24": 0.216
+  "25-34": 0.328
+  "35-44": 0.197
+  "45-54": 0.137
+  "55+": 0.122
+
+# Kalibrasyon: her grup prompt'una giren gerçek dünya taban oranı. Kişilerin "kibar" olmasını engeller.
+# Varsayılanlar sources/EB_etkilesim_ve_yanit_oranlari.md'deki kamuya açık ölçütlerden. Kendi hesabınızın
+# ya da kampanyanızın gerçek oranını biliyorsanız onu yazın (kaynak ve tarihiyle).
+calibration:
+  viewer: >-
+    Türkiye'de 10-50 bin takipçili Instagram hesaplarında medyan etkileşim oranı yaklaşık %0,44 (Click Analytic,
+    Eylül 2026); markaların reels'lerinde gönderi başına ortalama etkileşim %0,50 (Socialinsider 2025). Yani 1.000
+    takipçili bir hesabın ortalama reels'ine 4-6 beğeni, yorum, paylaşım ya da kaydetme gelir; izleyenlerin büyük
+    çoğunluğu hiçbir şey yapmadan geçer.
+  buyer: >-
+    Soğuk B2B tekliflerine ortalama yanıt oranı %4,1 (Hunter, 2024'te gönderilen 11 milyon e-posta); 50 kişiden
+    küçük kampanyalarda %5,8, 1.000+ kişilik kampanyalarda %2,1. Yani teklifi gören 100 işletmeden kabaca 2-6'sı
+    cevap verir.

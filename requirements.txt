@@ -1,0 +1,8 @@
+# Panel TR — Python 3.10+ (macOS / Linux)
+PyYAML>=6.0
+Pillow>=10.1
+# Site modu (web sitesi ekran görüntüleri). Kurulumdan sonra: python -m playwright install firefox
+playwright>=1.45
+# İsteğe bağlı, konuşmalı videolarda --transcript için (birini kurun):
+# faster-whisper>=1.0
+# openai-whisper

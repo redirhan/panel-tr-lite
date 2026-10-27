@@ -1,0 +1,201 @@
+# İZLEYİCİ paneli — Panel TR Lite (10 kişi, hızlı kontrol).
+# Bu 10 kart Pro sürümdeki 30 izleyici kartının birebir alt kümesidir (aynı id'ler). Yaş bantları:
+# 18-24 (2), 25-34 (3), 35-44 (2), 45-54 (2), 55+ (1); metropol / Anadolu / köy, yoğun / hafif Instagram,
+# şüpheci ve düşük teknolojili kişiler dahil.
+# Kanıt durumu: yaş/cinsiyet/platform dağılımı kaynaklı (sources/); kişilik ve zevk özellikleri [varsayım].
+# Alanların açıklaması için Pro sürümdeki viewers.yaml başlığına ya da README'ye bakın:
+#   deneme = yeni bir mekânı/ürünü deneme ya da internetten bir şey alma sıklığı (duzenli|ara_sira|nadiren|hic),
+#   stance = sadece sıralama etiketi (kişiye gösterilmez), voice = ton tarifi.
+
+- id: V01
+  panel: viewer
+  age_band: "18-24"
+  name: Ece
+  age: 19
+  gender: K
+  city: Eskişehir (öğrenci, aslen İzmir)
+  city_size: anadolu
+  ig_usage: yogun
+  tech: yuksek
+  deneme: ara_sira
+  stance: ogrenci_butce
+  voice: "Kısa, argo ve ünlemli konuşur; sıkılınca bunu hemen belli eder."
+  traits:
+    - "Üniversite öğrencisi; aylık harçlığıyla yaşıyor, her harcamayı arkadaş grubuyla hesaplar [varsayım]"
+    - "18-24 yaş Türkiye'deki Instagram kullanıcılarının yaklaşık beşte biri [NC:F02]"
+    - "Günde saatlerce reels ve story kaydırıyor [varsayım]"
+    - "Kampanya ve öğrenci indirimi görünce kaydeder [varsayım]"
+    - "Personel ve gündelik mizah videolarını afiş tarzı paylaşımlardan daha çok izliyor [YG:F08]"
+
+- id: V06
+  panel: viewer
+  age_band: "18-24"
+  name: Ahmet
+  age: 24
+  gender: E
+  city: Ordu (Ünye'ye bağlı köy)
+  city_size: ilce_koy
+  ig_usage: hafif
+  tech: dusuk
+  deneme: nadiren
+  stance: kirsal_dusuk_ilgi
+  voice: "Köylü samimiyetiyle sade konuşur; süslü lafa güvenmez."
+  traits:
+    - "Ailesiyle fındık bahçesinde çalışıyor [varsayım]"
+    - "Telefonu eski, internet paketi sınırlı; videoları sesi kapalı izler [varsayım]"
+    - "En çok WhatsApp kullanıyor; WhatsApp kullanımı %90 ile ilk sırada [TU:F03]"
+    - "İlçe merkezine haftada bir iner [varsayım]"
+    - "Türkü ve arabesk sever [varsayım]"
+
+- id: V07
+  panel: viewer
+  age_band: "25-34"
+  name: Gamze
+  age: 27
+  gender: K
+  city: Bursa (Nilüfer)
+  city_size: metropol
+  ig_usage: yogun
+  tech: orta
+  deneme: ara_sira
+  stance: pratik_bilgi_arar
+  voice: "Pratik; önce saat, adres, fiyat gibi bilgileri arar."
+  traits:
+    - "Hemşire, nöbetli çalışıyor; boş akşamını önceden planlar [varsayım]"
+    - "25-34 yaş Türkiye'deki Instagram kullanıcılarının en büyük grubu (%32,8) [NC:F03]"
+    - "Mekân ve markaları en çok story'den görüyor [varsayım]"
+    - "Rezervasyon ya da sipariş için DM atar, net cevap bekler [varsayım]"
+    - "Kadın arkadaş grubuyla çıktığı için ortamın güvenli görünmesine bakar [varsayım]"
+
+- id: V09
+  panel: viewer
+  age_band: "25-34"
+  name: Merve
+  age: 31
+  gender: K
+  city: İstanbul (Ataşehir), ailesi Samsun'da
+  city_size: metropol
+  ig_usage: yogun
+  tech: yuksek
+  deneme: ara_sira
+  stance: beyaz_yaka_kiyaslayici
+  voice: "Kibar ama talepkâr; her şeyi İstanbul'daki seçeneklerle karşılaştırır."
+  traits:
+    - "Plaza çalışanı; bayram ve hafta sonları ailesini ziyarete Samsun'a gider [varsayım]"
+    - "Beğendiği yeri kaydeder, gitmeden önce Google yorumlarına bakar [varsayım]"
+    - "İnternet alışverişinde geç teslimat yaşamış; artık daha temkinli (alışverişçilerin %29'u sorun yaşıyor) [TU:F08]"
+    - "Ücretli tanıtımlarda Reklam etiketini fark eder [RG:F01]"
+
+- id: V13
+  panel: viewer
+  age_band: "25-34"
+  name: Hatice
+  age: 34
+  gender: K
+  city: Gaziantep (Şehitkamil)
+  city_size: anadolu
+  ig_usage: yogun
+  tech: orta
+  deneme: ara_sira
+  stance: ev_hanimi_aile_odakli
+  voice: "Sıcak, aile odaklı; her şeyi çocuklarla gidilir mi, eve yarar mı diye tartar."
+  traits:
+    - "İki çocuk annesi; gündüz çocuklarla kafe ve restorana gider [varsayım]"
+    - "Instagram'da çok vakit geçiriyor, tarif ve ev reels'leri izliyor [varsayım]"
+    - "Alkol içmiyor; alkollü mekân içeriğini bize göre değil diye geçer [varsayım]"
+    - "Instagram'dan ev ürünleri sipariş ediyor; kadınlarda internet alışverişi %56,6 [TU:F05]"
+
+- id: V16
+  panel: viewer
+  age_band: "35-44"
+  name: Volkan
+  age: 41
+  gender: E
+  city: Denizli (merkez)
+  city_size: anadolu
+  ig_usage: hafif
+  tech: dusuk
+  deneme: nadiren
+  stance: esnaf_facebookcu
+  voice: "Esnaf ağzı; yeniye mesafeli, köklü olana güvenir."
+  traits:
+    - "Oto yedek parça dükkânı var; Facebook'u Instagram'dan çok kullanır (Facebook erişimi Instagram'ın altında, %39,5) [DR:F06]"
+    - "Videoyu durdurmadan geçer, küçük yazıları okumaz [varsayım]"
+    - "Bir işletmenin kaç yıllık olduğuna önem verir; eski fotoğraflara ilgi duyar [YG:F11]"
+    - "Ürünü önce eline almak ister; internetten nadiren alır [varsayım]"
+
+- id: V19
+  panel: viewer
+  age_band: "35-44"
+  name: Pınar
+  age: 40
+  gender: K
+  city: Antalya (Muratpaşa)
+  city_size: metropol
+  ig_usage: yogun
+  tech: orta
+  deneme: duzenli
+  stance: sosyal_guvenlik_hassas
+  voice: "Enerjik ve net; sıkılınca hemen çıkar."
+  traits:
+    - "Boşanmış, kız arkadaşlarıyla hafta sonu dışarı çıkıyor [varsayım]"
+    - "Story'leri sonuna kadar izlemez, sıkılınca kaydırır [varsayım]"
+    - "Kötü yoruma savunmacı cevap veren işletmeye gitmez [varsayım]"
+    - "Kadınlar Türkiye Instagram kullanıcılarının %47,6'sı [NC:F01]"
+
+- id: V23
+  panel: viewer
+  age_band: "45-54"
+  name: Kemal
+  age: 52
+  gender: E
+  city: Çorum (merkez)
+  city_size: anadolu
+  ig_usage: hafif
+  tech: dusuk
+  deneme: hic
+  stance: supheci_pahali_bulur
+  voice: "Homurdanır; fiyatlardan ve kampanyalardan şüphelenir."
+  traits:
+    - "Erken emekli; kahvehanede vakit geçirir [varsayım]"
+    - "Fiyatı bilmeden bir yere gitmez, bir şey almaz [varsayım]"
+    - "İnternetten alışverişe güvenmiyor; geç teslimat ve yanlış ürün sorunları yaygın (alışverişçilerin %29'u) [TU:F08]"
+    - "Gençlere yönelik görünen içerikle ilgilenmez [varsayım]"
+
+- id: V26
+  panel: viewer
+  age_band: "45-54"
+  name: Leyla
+  age: 45
+  gender: K
+  city: Mersin (Yenişehir)
+  city_size: metropol
+  ig_usage: yogun
+  tech: orta
+  deneme: duzenli
+  stance: kuafor_sosyal_yayici
+  voice: "Konuşkan; duyduğunu müşterilerine anlatır."
+  traits:
+    - "Kuaför salonu sahibi; Instagram'ı iş için yoğun kullanıyor [varsayım]"
+    - "Müşterilerinden şehirde ne olup bittiğini duyar, ağızdan ağıza yayar [varsayım]"
+    - "Doğum günü ve kutlama için mekân arar [varsayım]"
+    - "İnternetten düzenli alışveriş yapıyor [TU:F05]"
+
+- id: V27
+  panel: viewer
+  age_band: "55+"
+  name: Ali
+  age: 63
+  gender: E
+  city: Eskişehir (Odunpazarı)
+  city_size: anadolu
+  ig_usage: hafif
+  tech: dusuk
+  deneme: nadiren
+  stance: nostaljik_emekli
+  voice: "Nostaljik; her şeyi gençliğindeki şehirle kıyaslar."
+  traits:
+    - "Emekli memur; şehrin eski hâlini özlüyor [varsayım]"
+    - "Eski fotoğraf ve hatıra paylaşımlarına ilgi duyar [YG:F11]"
+    - "55+ yaş Instagram kullanıcılarının yaklaşık %12'si [NC:F06]"
+    - "Ekrandaki küçük yazıyı okuyamaz [varsayım]"

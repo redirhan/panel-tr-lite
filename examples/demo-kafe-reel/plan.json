@@ -1,0 +1,41 @@
+{
+ "panel_tr": "1.0.0",
+ "edition": "lite",
+ "panel": "viewer",
+ "seed": 7,
+ "ab": false,
+ "context": "Instagram'da Reels akışında karşına çıkıyor (sponsorlu değil). Paylaşan hesap: @mavikozalak.kahve (Eskişehir'de yeni açılmış bir kafe; hesabın 400 civarı takipçisi var, sen takip etmiyorsun). Açıklama metni aşağıda. Video 12 saniye, dikey.",
+ "calibration": "Türkiye'de 10-50 bin takipçili Instagram hesaplarında medyan etkileşim oranı yaklaşık %0,44 (Click Analytic, Eylül 2026); markaların reels'lerinde gönderi başına ortalama etkileşim %0,50 (Socialinsider 2025). Yani 1.000 takipçili bir hesabın ortalama reels'ine 4-6 beğeni, yorum, paylaşım ya da kaydetme gelir; izleyenlerin büyük çoğunluğu hiçbir şey yapmadan geçer.",
+ "action_question": "Bunu gördükten sonra bir şey yapar mıydın: hesabı takip etmek, kaydetmek/paylaşmak ya da açılış haftasında gidip denemek? Hangisini, neden?",
+ "stimulus": {
+  "single": "stimulus"
+ },
+ "batches": [
+  {
+   "batch": 1,
+   "prompt": "batches/batch_01.md",
+   "output": "responses/batch_01.json",
+   "personas": [
+    "V26",
+    "V27",
+    "V01",
+    "V06",
+    "V16"
+   ],
+   "ab_key": null
+  },
+  {
+   "batch": 2,
+   "prompt": "batches/batch_02.md",
+   "output": "responses/batch_02.json",
+   "personas": [
+    "V07",
+    "V13",
+    "V23",
+    "V19",
+    "V09"
+   ],
+   "ab_key": null
+  }
+ ]
+}

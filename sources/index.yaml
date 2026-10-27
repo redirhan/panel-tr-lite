@@ -1,0 +1,14 @@
+# Kaynak anahtarları. Bir persona özelliği [ANAHTAR:Fnn] (ya da [ANAHTAR:satır] / [ANAHTAR:a-b]) ile biter
+# veya [varsayım] ile. `panel.py validate` her atfın dosyada var olduğunu kontrol eder.
+# Yollar bu klasöre görelidir. Kendi kaynağınızı eklemek için: yeni bir .md yazın (her satır "Fnn ..."),
+# buraya iki harfli bir anahtarla ekleyin.
+TU: TU_tuik_bt_kullanim.md
+DR: DR_datareportal_2026.md
+NC: NC_napoleoncat_instagram_tr.md
+CA: CA_creator_ekonomisi.md
+EB: EB_etkilesim_ve_yanit_oranlari.md
+FP: FP_fiyatlar_tr.md
+AT: AT_araclar.md
+RG: RG_kurallar.md
+GT: GT_guven_ve_sikayetler.md
+YG: YG_yerel_gozlem.md

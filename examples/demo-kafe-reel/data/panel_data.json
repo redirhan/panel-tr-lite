@@ -1,0 +1,462 @@
+{
+ "n": 10,
+ "panel": "viewer",
+ "edition": "lite",
+ "tables": {
+  "tek:Yaş": [
+   [
+    "18-24",
+    2,
+    0,
+    {
+     "evet": 0,
+     "belki": 1,
+     "hayır": 1
+    },
+    3,
+    null
+   ],
+   [
+    "25-34",
+    3,
+    0,
+    {
+     "evet": 0,
+     "belki": 2,
+     "hayır": 1
+    },
+    3,
+    null
+   ],
+   [
+    "35-44",
+    2,
+    0,
+    {
+     "evet": 0,
+     "belki": 0,
+     "hayır": 2
+    },
+    2.5,
+    null
+   ],
+   [
+    "45-54",
+    2,
+    0,
+    {
+     "evet": 0,
+     "belki": 1,
+     "hayır": 1
+    },
+    2.5,
+    null
+   ],
+   [
+    "55+",
+    1,
+    0,
+    {
+     "evet": 0,
+     "belki": 0,
+     "hayır": 1
+    },
+    3,
+    null
+   ]
+  ]
+ },
+ "issues": [],
+ "totals": {
+  "tek": {
+   "n": 10,
+   "stop": 0,
+   "act": {
+    "evet": 0,
+    "belki": 4,
+    "hayır": 6
+   },
+   "cred_mean": 2.8
+  }
+ },
+ "convergence": {
+  "within": 0.041,
+  "across": 0.045,
+  "verdict": "grup içi ve gruplar arası benzerlik yakın (belirgin tek seslilik yok)"
+ },
+ "assumption_share": 0.674,
+ "rows": [
+  {
+   "id": "V26",
+   "batch": 1,
+   "groups": {
+    "Yaş": "45-54",
+    "Cinsiyet": "K",
+    "Yer": "metropol",
+    "Instagram": "yogun",
+    "Yeni şey deneme": "duzenli"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Sade bir fincan çizimi, yüz yok, insan yok; kaydırırken gözüme çarpmaz. Yazı 'yeni kahve durağı' diyor ama akışta bin tane kafe tanıtımı var.",
+     "what": "Odunpazarı'nda yeni açılan bir kafe, açılış haftasında ikinci filtre kahveyi bedava veriyor.",
+     "cred": 3,
+     "act": "belki",
+     "act_what": "kaydet/paylaş",
+     "act_why": "Ben Mersin'deyim, gidip denemem mümkün değil. Ama Eskişehir'de tanıdığım müşteri olursa ona atarım; salon için de mekân bakıyorum ama bu videoda mekânı göremiyorum.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Kafenin içi, masalar, kahve hiç görünmüyor; ne kadar güzel bir yer olduğunu anlayamıyorum.",
+     "fix": "Çizim fincan yerine 3 saniyelik gerçek mekân ve kahve dökülürken çekilmiş bir kare koyun.",
+     "refs": [
+      "t=0.0",
+      "t=2.0",
+      "t=7.0",
+      "t=11.0"
+     ],
+     "cant_see": "Kahvenin tadını, mekânın havasını ve sesi bilemem; videoda mekân görüntüsü ve ses yok.",
+     "quote": "Güzel de ben bu kafenin içini görmeden kimseye 'gidin' diyemem."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V26 Leyla, 45, Mersin (Yenişehir) (45-54)"
+  },
+  {
+   "id": "V27",
+   "batch": 1,
+   "groups": {
+    "Yaş": "55+",
+    "Cinsiyet": "E",
+    "Yer": "anadolu",
+    "Instagram": "hafif",
+    "Yeni şey deneme": "nadiren"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Duran bir resim gibi, bir şey olmuyor. Zaten telefonda hızlı geçen şeylere bakmam; Odunpazarı yazısını fark edersem belki bir an bakarım.",
+     "what": "Odunpazarı'nda bir kahve dükkânı açılmış, bir hafta boyunca ikinci kahve bedava diyor galiba.",
+     "cred": 3,
+     "act": "hayır",
+     "act_what": "hiçbiri",
+     "act_why": "Takip etmek, kaydetmek gibi alışkanlığım yok. Kahveyi evde ya da eski kahvehanede içerim; yeni kafeye bir tanıdık götürürse giderim.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Alttaki küçük yazıları okuyamıyorum; adres ve saat gözüme zor görünüyor.",
+     "fix": "Son karedeki adres ve saat satırlarını iki katı büyüklükte yazın.",
+     "refs": [
+      "t=1.0",
+      "t=10.0",
+      "t=11.8"
+     ],
+     "cant_see": "Ses yok; küçük yazıları (en alttaki hesap adı, saat satırı) rahat okuyamadım.",
+     "quote": "Odunpazarı'na kafe açılmış, olsun, ama ben gözüm görmeden bu yazılardan bir şey anlamam."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V27 Ali, 63, Eskişehir (Odunpazarı) (55+)"
+  },
+  {
+   "id": "V01",
+   "batch": 1,
+   "groups": {
+    "Yaş": "18-24",
+    "Cinsiyet": "K",
+    "Yer": "anadolu",
+    "Instagram": "yogun",
+    "Yeni şey deneme": "ara_sira"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Ya bu ne, duran bir fincan! İnsan yok, hareket yok, geçtim bile. Odunpazarı yazısı okuyana kadar kaydırmışım.",
+     "what": "Eskişehir'de yeni bir kafe açılmış, açılış haftası ikinci filtre kahve bedava.",
+     "cred": 3,
+     "act": "belki",
+     "act_what": "kaydet/paylaş",
+     "act_why": "2. kahve bedava olunca arkadaşa atarım, hesap bölüşürüz. Ama kahve fiyatı bilmiyorum, harçlıkla fazla hesaplıyım; filtre kahve ucuzsa giderim.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Çok sıkıcı ve afiş gibi; hiç insan yok, hiç kahve görüntüsü yok, öğrenci indirimi de yok.",
+     "fix": "İlk saniyede gerçek bir kahve dökülme çekimi koyun ve '2. kahve bedava' yazısını ilk karede verin.",
+     "refs": [
+      "t=0.0",
+      "t=1.5",
+      "t=7.0",
+      "t=10.0"
+     ],
+     "cant_see": "Fiyat yazmıyor, o yüzden ucuz mu pahalı mı bilemem; ses de yok.",
+     "quote": "Bedava kahve iyi de bu videoyu izlemek hiç eğlenceli değil, ya!"
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V01 Ece, 19, Eskişehir (öğrenci, aslen İzmir) (18-24)"
+  },
+  {
+   "id": "V06",
+   "batch": 1,
+   "groups": {
+    "Yaş": "18-24",
+    "Cinsiyet": "E",
+    "Yer": "ilce_koy",
+    "Instagram": "hafif",
+    "Yeni şey deneme": "nadiren"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Zaten ses kapalı izliyorum; sadece bir fincan duruyor, bir şey olmuyor. Parmağım kayar.",
+     "what": "Eskişehir'de bir kahveci açılmış, ikinci kahve para almıyor galiba.",
+     "cred": 3,
+     "act": "hayır",
+     "act_what": "hiçbiri",
+     "act_why": "Ordu'da köydeyim, Eskişehir çok uzak. Kahveyi de pek içmem, çay içerim. Paketim de dar, Instagram'da fazla gezmem.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Bana göre bir şey değil; çok uzak ve kahve içmiyorum.",
+     "fix": "Yazılar daha büyük ve hareketli olsun; küçük mavi yazılar telefonda okunmuyor.",
+     "refs": [
+      "t=0.0",
+      "t=5.0",
+      "t=11.0"
+     ],
+     "cant_see": "Ses yok zaten; küçük yazıları (adres, saat, hesap adı) telefonda okuyamam.",
+     "quote": "Güzel olmuş ama bana ne, ben Ünye'den öteye bile pek gitmem."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V06 Ahmet, 24, Ordu (Ünye'ye bağlı köy) (18-24)"
+  },
+  {
+   "id": "V16",
+   "batch": 1,
+   "groups": {
+    "Yaş": "35-44",
+    "Cinsiyet": "E",
+    "Yer": "anadolu",
+    "Instagram": "hafif",
+    "Yeni şey deneme": "nadiren"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Videoyu durdurmadan geçerim; bir çizim fincan ve yazı var, ilgimi çekecek bir şey yok. Ben zaten Facebook'ta gezerim.",
+     "what": "Eskişehir'de yeni kafe açılmış, açılış haftası indirim yapıyor.",
+     "cred": 2,
+     "act": "hayır",
+     "act_what": "hiçbiri",
+     "act_why": "Denizli'deyim, Eskişehir bana uzak. Zaten dükkânım var, vaktim yok; yeniye de hemen koşmam.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Dükkânı, ustayı, kahveyi göstermiyor; çizimle güven gelmez.",
+     "fix": "Dükkânın önünden gerçek bir fotoğraf ve sahibinin yüzü ilk karede olsun.",
+     "refs": [
+      "t=1.0",
+      "t=7.0",
+      "t=10.0"
+     ],
+     "cant_see": "Kahvenin kalitesini ve mekânı bilemem; küçük yazıları okumadım, ses de yok.",
+     "quote": "Esnaf olarak söylüyorum, dükkânı göstermeyen yere gitmem."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V16 Volkan, 41, Denizli (merkez) (35-44)"
+  },
+  {
+   "id": "V07",
+   "batch": 2,
+   "groups": {
+    "Yaş": "25-34",
+    "Cinsiyet": "K",
+    "Yer": "metropol",
+    "Instagram": "yogun",
+    "Yeni şey deneme": "ara_sira"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Düz krem zemin ve bir fincan çizimi var, yüz ya da mekân görüntüsü yok. Nöbet çıkışı akışı hızlı kaydırırken gözüm bunda takılmaz.",
+     "what": "Odunpazarı'nda yeni açılan bir kafenin açılış duyurusu; açılış haftasında ikinci filtre kahve bedava gibi duruyor.",
+     "cred": 3,
+     "act": "belki",
+     "act_what": "kaydet/paylaş",
+     "act_why": "Bursa'dayım, Eskişehir'e özel gitmem; arkadaşlarla Eskişehir'e yolum düşerse kaydedebilirim. Takip için de önce mekânın içini görmem lazım.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Mekân görünmüyor; kadın arkadaşlarla gidilecek, rahat bir yer mi diye hiçbir fikir edinemedim.",
+     "fix": "İlk 3 saniyede çizim yerine kafenin içinden, masalardan ve bir fincanın servis edilişinden gerçek bir çekim koy.",
+     "refs": [
+      "t=0.0",
+      "t=7.0",
+      "t=10.0"
+     ],
+     "cant_see": "Kahvenin tadını, mekânın havasını ve ortamın güvenli olup olmadığını bu karelerden bilemem.",
+     "quote": "Saati ve tarihi yazmışlar, hoş ama içerisi nasıl bir yer göremeyince aklımda kalmaz."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V07 Gamze, 27, Bursa (Nilüfer) (25-34)"
+  },
+  {
+   "id": "V13",
+   "batch": 2,
+   "groups": {
+    "Yaş": "25-34",
+    "Cinsiyet": "K",
+    "Yer": "anadolu",
+    "Instagram": "yogun",
+    "Yeni şey deneme": "ara_sira"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Sade bir fincan çizimi ve yazı var, tarif ya da ev videosu gibi canlı bir şey yok. Çocuklarla ilgili hiçbir ipucu da yok, geçerim.",
+     "what": "Eskişehir'de yeni bir kahve dükkânı açılmış, açılış haftasında ikinci filtre kahveyi ikram ediyorlar.",
+     "cred": 3,
+     "act": "hayır",
+     "act_what": "hiçbiri",
+     "act_why": "Gaziantep'te yaşıyorum, Eskişehir bana çok uzak. Açılış haftası da 20-26 Ekim, gitmem mümkün değil.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Benim şehrimde değil, o yüzden bana hitap eden hiçbir tarafı yok. Çocukla gidilir mi, belli değil.",
+     "fix": "Poğaça ve kahvenin gerçek fotoğrafını göster, mekânda çocuk sandalyesi ya da aile masası varsa onu ekle.",
+     "refs": [
+      "t=2.0",
+      "t=5.0",
+      "t=10.0"
+     ],
+     "cant_see": "Mekânın çocuklu aileye uygun olup olmadığını ve poğaçanın nasıl göründüğünü bilemem.",
+     "quote": "Güzel bir fincan çizmişler ama bu benim şehrim değil, kaydırıp geçtim."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V13 Hatice, 34, Gaziantep (Şehitkamil) (25-34)"
+  },
+  {
+   "id": "V23",
+   "batch": 2,
+   "groups": {
+    "Yaş": "45-54",
+    "Cinsiyet": "E",
+    "Yer": "anadolu",
+    "Instagram": "hafif",
+    "Yeni şey deneme": "hic"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Genç işi bir çizim gibi geldi bana. Telefonda böyle şeylere bakmam, parmağım kaydırır.",
+     "what": "Bir kahveci açılmış, ikinci kahveyi bedava veriyorlar; yani bir kampanya.",
+     "cred": 2,
+     "act": "hayır",
+     "act_what": "hiçbiri",
+     "act_why": "Çorum'dayım, Eskişehir'e kahve için gidilmez. Kahveyi kahvehanede içerim, fiyatını bilmediğim yere de girmem.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Fiyat yok. Filtre kahve kaç para, ikincisi bedava dediğin ilki kaç lira, belli değil.",
+     "fix": "Filtre kahvenin fiyatını büyük yaz, mesela 'filtre kahve 60 TL, ikincisi bedava' gibi.",
+     "refs": [
+      "t=1.0",
+      "t=7.0",
+      "t=11.0"
+     ],
+     "cant_see": "Gerçek fiyatı ve kahvenin kalitesini bilemem; videoda sesi de yokmuş.",
+     "quote": "Bedava diyorlar da kaça satıyorlar önce onu söylesinler."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V23 Kemal, 52, Çorum (merkez) (45-54)"
+  },
+  {
+   "id": "V19",
+   "batch": 2,
+   "groups": {
+    "Yaş": "35-44",
+    "Cinsiyet": "K",
+    "Yer": "metropol",
+    "Instagram": "yogun",
+    "Yeni şey deneme": "duzenli"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "İlk karede boş zemin, sonra bir cümle yazı, hareket yok. Sıkıldım, çoktan kaydırdım.",
+     "what": "Odunpazarı'nda yeni açılan bir kafe, açılış haftası indirimi var.",
+     "cred": 3,
+     "act": "hayır",
+     "act_what": "hiçbiri",
+     "act_why": "Antalya'da yaşıyorum, Eskişehir'e gitmem için bir sebep yok. Takip de etmem, akışımda yeni kafe çok.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Hiç enerjisi yok. Aynı fincan 12 saniye boyunca duruyor, 6. saniyeye kadar turuncu kutu bile boş.",
+     "fix": "Turuncu kutudaki 'ikinci filtre kahve bizden' teklifini ilk 2 saniyeye al, fincan çizimi yerine gerçek bir kahve dökülen çekim koy.",
+     "refs": [
+      "t=0.0",
+      "t=6.0",
+      "t=9.0"
+     ],
+     "cant_see": "Mekânın havasını, müşteri yorumlarını ve işletmenin yorumlara nasıl cevap verdiğini bilemem.",
+     "quote": "Kafe ilginçse göster, ben yazı okumaya gelmedim."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V19 Pınar, 40, Antalya (Muratpaşa) (35-44)"
+  },
+  {
+   "id": "V09",
+   "batch": 2,
+   "groups": {
+    "Yaş": "25-34",
+    "Cinsiyet": "K",
+    "Yer": "metropol",
+    "Instagram": "yogun",
+    "Yeni şey deneme": "ara_sira"
+   },
+   "opts": {
+    "tek": {
+     "stop": "hayır",
+     "stop_why": "Sade tasarım ve çizim var ama beni durduracak bir şey yok. İstanbul'da her gün onlarca yeni kafe açılışı görüyorum.",
+     "what": "Eskişehir Odunpazarı'nda yeni bir kafe açılmış; açılış haftasında 20-26 Ekim arası ikinci filtre kahve ücretsiz.",
+     "cred": 3,
+     "act": "belki",
+     "act_what": "kaydet/paylaş",
+     "act_why": "Samsun'a giderken Eskişehir güzergahım değil, o yüzden gitmem. Ama Eskişehir'e yolum düşerse diye kaydederim, Google yorumlarına bakmadan karar vermem.",
+     "price": null,
+     "price_mid": null,
+     "objection": "Teklif 20-26 Ekim ile sınırlı; gördüğümde zaten bitmiş olabilir, ayrıca gerçek bir mekân görüntüsü yok.",
+     "fix": "Kafenin dışından ve içinden 2-3 gerçek kare ekle, tarihi turuncu kutuda en büyük satır yap.",
+     "refs": [
+      "t=3.0",
+      "t=7.0",
+      "t=10.0"
+     ],
+     "cant_see": "Kahvenin kalitesini ve mekânın atmosferini bu kareler göstermiyor; harita konumunu da göremedim.",
+     "quote": "Yer güzel olabilir ama içini göstermeden beni Eskişehir'e çekemezsin."
+    }
+   },
+   "pref": null,
+   "pref_why": "",
+   "first_shown": null,
+   "label": "V09 Merve, 31, İstanbul (Ataşehir), ailesi Samsun'da (25-34)"
+  }
+ ]
+}

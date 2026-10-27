@@ -1,0 +1,139 @@
+[
+ {
+  "persona_id": "V26",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Sade bir fincan çizimi, yüz yok, insan yok; kaydırırken gözüme çarpmaz. Yazı 'yeni kahve durağı' diyor ama akışta bin tane kafe tanıtımı var."
+  },
+  "ne_anlatiyor": "Odunpazarı'nda yeni açılan bir kafe, açılış haftasında ikinci filtre kahveyi bedava veriyor.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Adres, saat ve hesap adı var ama hepsi çizim ve yazıdan ibaret; ne mekânı ne kahveyi ne de insanları görüyorum. Ayrıca 400 takipçili yeni bir hesap."
+  },
+  "aksiyon": {
+   "karar": "belki",
+   "ne_yapar": "kaydet/paylaş",
+   "gercekci_neden": "Ben Mersin'deyim, gidip denemem mümkün değil. Ama Eskişehir'de tanıdığım müşteri olursa ona atarım; salon için de mekân bakıyorum ama bu videoda mekânı göremiyorum."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Kafenin içi, masalar, kahve hiç görünmüyor; ne kadar güzel bir yer olduğunu anlayamıyorum.",
+  "tek_somut_duzeltme": "Çizim fincan yerine 3 saniyelik gerçek mekân ve kahve dökülürken çekilmiş bir kare koyun.",
+  "dayanak": [
+   "t=0.0",
+   "t=2.0",
+   "t=7.0",
+   "t=11.0"
+  ],
+  "goremedigim": "Kahvenin tadını, mekânın havasını ve sesi bilemem; videoda mekân görüntüsü ve ses yok.",
+  "kendi_sozleriyle": "Güzel de ben bu kafenin içini görmeden kimseye 'gidin' diyemem."
+ },
+ {
+  "persona_id": "V27",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Duran bir resim gibi, bir şey olmuyor. Zaten telefonda hızlı geçen şeylere bakmam; Odunpazarı yazısını fark edersem belki bir an bakarım."
+  },
+  "ne_anlatiyor": "Odunpazarı'nda bir kahve dükkânı açılmış, bir hafta boyunca ikinci kahve bedava diyor galiba.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Mahallemin adı geçiyor, bu hoşuma gitti. Ama dükkânın kendisini göremiyorum, sadece çizim; kimin yaptığı belli değil."
+  },
+  "aksiyon": {
+   "karar": "hayır",
+   "ne_yapar": "hiçbiri",
+   "gercekci_neden": "Takip etmek, kaydetmek gibi alışkanlığım yok. Kahveyi evde ya da eski kahvehanede içerim; yeni kafeye bir tanıdık götürürse giderim."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Alttaki küçük yazıları okuyamıyorum; adres ve saat gözüme zor görünüyor.",
+  "tek_somut_duzeltme": "Son karedeki adres ve saat satırlarını iki katı büyüklükte yazın.",
+  "dayanak": [
+   "t=1.0",
+   "t=10.0",
+   "t=11.8"
+  ],
+  "goremedigim": "Ses yok; küçük yazıları (en alttaki hesap adı, saat satırı) rahat okuyamadım.",
+  "kendi_sozleriyle": "Odunpazarı'na kafe açılmış, olsun, ama ben gözüm görmeden bu yazılardan bir şey anlamam."
+ },
+ {
+  "persona_id": "V01",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Ya bu ne, duran bir fincan! İnsan yok, hareket yok, geçtim bile. Odunpazarı yazısı okuyana kadar kaydırmışım."
+  },
+  "ne_anlatiyor": "Eskişehir'de yeni bir kafe açılmış, açılış haftası ikinci filtre kahve bedava.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Kampanya net, tarihi var (20-26 Ekim). Ama bi' sürü kafe böyle afiş atıyor, mekân nasıl bilmiyorum."
+  },
+  "aksiyon": {
+   "karar": "belki",
+   "ne_yapar": "kaydet/paylaş",
+   "gercekci_neden": "2. kahve bedava olunca arkadaşa atarım, hesap bölüşürüz. Ama kahve fiyatı bilmiyorum, harçlıkla fazla hesaplıyım; filtre kahve ucuzsa giderim."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Çok sıkıcı ve afiş gibi; hiç insan yok, hiç kahve görüntüsü yok, öğrenci indirimi de yok.",
+  "tek_somut_duzeltme": "İlk saniyede gerçek bir kahve dökülme çekimi koyun ve '2. kahve bedava' yazısını ilk karede verin.",
+  "dayanak": [
+   "t=0.0",
+   "t=1.5",
+   "t=7.0",
+   "t=10.0"
+  ],
+  "goremedigim": "Fiyat yazmıyor, o yüzden ucuz mu pahalı mı bilemem; ses de yok.",
+  "kendi_sozleriyle": "Bedava kahve iyi de bu videoyu izlemek hiç eğlenceli değil, ya!"
+ },
+ {
+  "persona_id": "V06",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Zaten ses kapalı izliyorum; sadece bir fincan duruyor, bir şey olmuyor. Parmağım kayar."
+  },
+  "ne_anlatiyor": "Eskişehir'de bir kahveci açılmış, ikinci kahve para almıyor galiba.",
+  "guvenilirlik": {
+   "puan": 3,
+   "neden": "Kötü bir şey yok ama ben Eskişehir'e gitmem; bana uzak. Gerçek bir dükkân mı, bilmem."
+  },
+  "aksiyon": {
+   "karar": "hayır",
+   "ne_yapar": "hiçbiri",
+   "gercekci_neden": "Ordu'da köydeyim, Eskişehir çok uzak. Kahveyi de pek içmem, çay içerim. Paketim de dar, Instagram'da fazla gezmem."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Bana göre bir şey değil; çok uzak ve kahve içmiyorum.",
+  "tek_somut_duzeltme": "Yazılar daha büyük ve hareketli olsun; küçük mavi yazılar telefonda okunmuyor.",
+  "dayanak": [
+   "t=0.0",
+   "t=5.0",
+   "t=11.0"
+  ],
+  "goremedigim": "Ses yok zaten; küçük yazıları (adres, saat, hesap adı) telefonda okuyamam.",
+  "kendi_sozleriyle": "Güzel olmuş ama bana ne, ben Ünye'den öteye bile pek gitmem."
+ },
+ {
+  "persona_id": "V16",
+  "ilk_3_saniye": {
+   "durur_mu": "hayır",
+   "neden": "Videoyu durdurmadan geçerim; bir çizim fincan ve yazı var, ilgimi çekecek bir şey yok. Ben zaten Facebook'ta gezerim."
+  },
+  "ne_anlatiyor": "Eskişehir'de yeni kafe açılmış, açılış haftası indirim yapıyor.",
+  "guvenilirlik": {
+   "puan": 2,
+   "neden": "Yeni açılmış, kaç yıllık olduğu belli değil, dükkânı da göstermiyorlar. Sadece çizim ve yazı, hiçbir şey eline alıp bakamıyorsun."
+  },
+  "aksiyon": {
+   "karar": "hayır",
+   "ne_yapar": "hiçbiri",
+   "gercekci_neden": "Denizli'deyim, Eskişehir bana uzak. Zaten dükkânım var, vaktim yok; yeniye de hemen koşmam."
+  },
+  "fiyat_beklentisi": null,
+  "en_buyuk_itiraz": "Dükkânı, ustayı, kahveyi göstermiyor; çizimle güven gelmez.",
+  "tek_somut_duzeltme": "Dükkânın önünden gerçek bir fotoğraf ve sahibinin yüzü ilk karede olsun.",
+  "dayanak": [
+   "t=1.0",
+   "t=7.0",
+   "t=10.0"
+  ],
+  "goremedigim": "Kahvenin kalitesini ve mekânı bilemem; küçük yazıları okumadım, ses de yok.",
+  "kendi_sozleriyle": "Esnaf olarak söylüyorum, dükkânı göstermeyen yere gitmem."
+ }
+]

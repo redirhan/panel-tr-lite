@@ -1,0 +1,23 @@
+# Uyaran (video)
+
+- Süre: 12.0 sn, dikey video. Aşağıdaki görseller videonun karelerinden alındı; videoyu sen OYNATMADIN, sadece bu kareleri görüyorsun.
+- Görseller (sırayla bak):
+  - `sheet_00_ilk3sn.jpg`
+  - `sheet_01.jpg`
+- Tek tek kareler (yazı okunmuyorsa bunlara bak): `frames/tXXX.XX.jpg` — t=0.0, t=0.5, t=1.0, t=1.5, t=2.0, t=2.5, t=3.0, t=4.0, t=5.0, t=6.0, t=7.0, t=8.0, t=9.0, t=10.0, t=11.0, t=11.8
+
+## Ekrandaki yazılar (bizim çıkardığımız liste, karelerle birebir aynı olmalı)
+
+0.0-0.3  Yazı yok; krem zemin üzerinde çizim bir mavi kahve fincanı, üstünde buhar çizgileri
+0.3-3.0  "Odunpazarı'nda" / "yeni kahve durağı" (büyük, koyu kahverengi); 1.2 sn'den itibaren altta küçük "açıldı" (turuncu); ortada aynı fincan çizimi
+3.0-6.0  "Taze kavrum" / "filtre kahve" (büyük), altında "Her sabah 08:00'de" / "fırından sıcak poğaça" (küçük, mavi); küçük fincan çizimi
+6.0-9.0  Turuncu kutu (ilk anda boş) içinde beyaz: "AÇILIŞ HAFTASI" / "2. filtre kahve" / "bizden" / "20-26 Ekim" (en küçük satır)
+9.0-12.0 Bitiş kartı: fincan çizimi, "Mavi Kozalak Kahve" (büyük), "Odunpazarı, Eskişehir", "Her gün 08:00-22:00" (küçük, mavi), en altta çok küçük gri "@mavikozalak.kahve"
+
+## Ses (BİZİM ANALİZİMİZ — sen duymadın; sesi duymuş gibi yorum yapma, sadece bu bilgiye dayan)
+
+Videoda ses yok.
+
+## Gönderi açıklaması (caption)
+
+Odunpazarı'nda kapımızı açtık! Açılış haftası boyunca ikinci filtre kahve bizden. Adres profilde. #eskişehir #odunpazarı #kahve
